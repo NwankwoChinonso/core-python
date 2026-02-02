@@ -16,14 +16,24 @@ It intentionally focuses on **fundamentals only**, without frameworks or domain-
 
 The repository covers, but is not limited to:
 
-- Variables and data types
+- Variables, data types, and operators
 - Control flow (sequence, conditionals, and loops)
 - Functions and modular code
 - Data structures (lists, tuples, sets, dictionaries)
 - Object-Oriented Programming (OOP)
 - Error and exception handling
 - File handling
-- Basic problem-solving patterns
+- Modules and Packages
+- Iterators & Generators
+- Comprehensions
+- Functional Programming Concepts
+- Date, Time & OS Interaction
+- Debuggig & Testing
+- Input / Output & CLI
+- Pythonic Pracctices
+- Performance & Memory
+- Common Standard Library Modules
+- Problem-solving patterns
 
 ## Progress Philosophy
 
